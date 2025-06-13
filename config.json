@@ -1,0 +1,8 @@
+{
+  "api_key": "YOUR_API_KEY",
+  "secret_key": "YOUR_SECRET_KEY",
+  "symbol": "SOL-USDT",
+  "trade_percentage": 0.1,
+  "balance": 100,
+  "check_interval": 60
+}
